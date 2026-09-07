@@ -1,1 +1,1 @@
-# Inventario_tienda_digital
+# Inventario-tienda-digital
